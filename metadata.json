@@ -1,0 +1,6 @@
+{
+  "name": "Gram-Sahyog",
+  "description": "Official Digital Citizen Portal for Ker-Bhekurli Grampanchayat, Sindhudurg. Access government schemes, digital services, real-time grampanchayat updates, and the Gram-Mitra AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
